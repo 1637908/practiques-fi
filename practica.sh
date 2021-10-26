@@ -1,5 +1,8 @@
 #! /bin/bash
 
+###Fonaments d'Informàtica - Pràctica Shell Script###
+#Marta Monsó (1636465) i Mercè De la Torre (1637908)#
+
 #Pel fet que al punt 5 de la pràctica ens demanen calcular un tant per cent, i aquest està separat per una coma entre la part entera i la fraccionària, traduïm el document i convertim les comes en punt i comes. 
 tr "," ";"  <CAvideos.csv >outfile1.csv
 
